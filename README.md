@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/CalcoDev/Entropy-ECS">
-    <img src=".github/images/ECS Logo.png" alt="Logo" width="192" height="192">
+    <img src=".github/ECS Logo.png" alt="Logo" width="192" height="192">
   </a>
 
 <h3 align="center">Entropy ECS</h3>
