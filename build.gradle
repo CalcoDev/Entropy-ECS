@@ -1,0 +1,3 @@
+plugins {
+    id 'Entropy.java-library-conventions'
+}
